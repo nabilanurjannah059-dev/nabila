@@ -6,7 +6,7 @@ img {
     width: 200px;
 }
 body {
-    background-image: url(backgroun.jpg);
+    background-color: black;
     color: #f0aeae; 
     font-family: Arial, sans-serif;
     text-align: center;
